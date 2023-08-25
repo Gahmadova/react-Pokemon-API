@@ -1,5 +1,8 @@
 GITHUB REPO = https://github.com/Gahmadova/react-Pokemon-API
+
 PokeApi = https://pokeapi.co/
+
+Link\*\* (https://64e7d1413b0cd1116e49ac3b--rad-blancmange-87e75e.netlify.app/)
 
 React-Pokemon-Api
 I will use react framework on my 2nd project using a PokeAPI send request and I get a response from PokeAPI.

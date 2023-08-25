@@ -112,3 +112,15 @@ h3 {
   min-width: 50%;
   margin-top: 1rem;
 }
+
+/* .pokemon-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 200px;
+  transition: background-color 0.3s;
+} */
+
+.all-container :hover {
+  background-color: #f0f0f0;
+  cursor: pointer;
+}
